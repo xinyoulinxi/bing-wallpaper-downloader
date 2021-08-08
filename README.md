@@ -22,3 +22,8 @@ from BingWallpaperDownloader import DownloadAllDayBingImg,DownLoadBingImg
 DownloadAllDayBingImg("./bing_bg")# other your path to save images,
 DownLoadBingImg("./")
 ```
+
+`DownLoadBingImg("./")` func get this pic:
+![image](/2021_08_08.jpg)
+
+just have fun~
