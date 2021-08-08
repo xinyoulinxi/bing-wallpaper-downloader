@@ -8,7 +8,7 @@ just add this py to your startup command in pc
 
 # usage
 
-get BingWallpaperDownloader.py for yourself
+get BingWallpaperDownloader tool for yourself
 
 ```shell
 git clone https://github.com/xinyoulinxi/bing-wallpaper-downloader
@@ -18,7 +18,7 @@ and refer to this : [demo](/demo.py) for your use
 
 ```python
 from BingWallpaperDownloader import DownloadAllDayBingImg,DownLoadBingImg
-
-DownloadAllDayBingImg("./bing_bg")# other your path to save images
+# path, need last '/' char
+DownloadAllDayBingImg("./bing_bg")# other your path to save images,
 DownLoadBingImg("./")
 ```
